@@ -1,5 +1,7 @@
 # This is a work in progress and we are seeking contributors!!!
 
+![](https://github.com/CodeforNepal/satyasangraha/blob/main/demo.gif)
+
 # सत्यसंग्रह (Satyasangraha) - Anti-Corruption Platform for Nepal
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
